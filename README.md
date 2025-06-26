@@ -109,7 +109,7 @@ Your output is auto-uploaded to:
 | API/Data Handling            | ✅    | yfinance, robust fetch, NaN handling |
 | Strategy Logic               | ✅    | Multi-condition RSI + MA crossover   |
 | ML/Analytics                 | ✅    | 3 models, dynamic selection, saved   |
-| Sheets + Drive Automation    | ✅    | Auto-uploads with formatting         |
+| Sheets Automation            | ✅    | Auto-uploads with formatting         |
 | Code Quality & Documentation | ✅    | Modular, logged, Markdown-documented |
 
 
