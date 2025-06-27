@@ -24,7 +24,6 @@ A Python-based **mini algo-trading prototype** that connects to real-time stock 
   - Win ratios
   - Model summary
 - ✅ **Telegram Alerts** for signals and pipeline status
-- ✅ **Google Drive Model Export** per ticker
 - ✅ **Fully Modular & Documented Codebase**
 
 ---
@@ -117,6 +116,7 @@ Your output is auto-uploaded to:
 | Sheets Automation            | ✅    | Auto-uploads with formatting         |
 | Code Quality & Documentation | ✅    | Modular, logged, Markdown-documented |
 
+#
 
 👤 Author
 ---------
