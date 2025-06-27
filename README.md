@@ -63,9 +63,14 @@ Your output is auto-uploaded to:
 
 | Ticker        | ML Model     | Accuracy | Win Ratio | Total Signals |
 | ------------- | ------------ | -------- | --------- | ------------- |
-| ADANIENT.NS   | Logistic     | 46.67%   | 62.50%    | 8             |
-| BAJFINANCE.NS | Logistic     | 60.00%   | 72.72%    | 11            |
-| COALINDIA.NS  | RandomForest | 53.33%   | 66.66%    | 9             |
+| ADANIENT.NS   | Logistic     | 46.67%   | 62.50%    | 43            |
+| BAJFINANCE.NS | Logistic     | 60.00%   | 72.72%    | 59            |
+| COALINDIA.NS  | RandomForest | 53.33%   | 66.66%    | 48            |
+
+
+| App Interface Screenshot | Telegram Alert Screenshot |
+|--------------------------|---------------------------|
+| <img src="https://github.com/user-attachments/assets/336c304d-ca9b-4914-ba1c-b6fa9ef70765" height="350" width="160"/> | <img src="https://github.com/user-attachments/assets/016f7b21-615e-438e-a2dc-2d7d07d6e43d" height="350" width="160"/> |
 
 
 🛠️ Technologies Used
